@@ -144,8 +144,6 @@ This project demonstrates practical experience in:
 ## 👨‍💻 Author
 
 **Omar Adel**
-
-AI Student 
 Ai Engineer| LLMs | MLOps | Computer Vision
 
 ---
